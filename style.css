@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: rgb(48, 48, 231);
+}
+div{
+    background-color: white;
+    width: 270px;
+    height: 150px;
+    margin-left: 40%;
+    border-radius: 20px;
+}
+h1{
+    color: rgb(0, 255, 0);
+    font-size: 55px;
+}
+#f{
+    color: rgb(31, 7, 245);
+}
+#g{
+    color: darkred;
+}
+#h{
+    color: rgb(31, 7, 245);
+}
+#i{
+    color: darkred;
+}
+#J1{
+    color: rgb(31, 7, 245);
+    background-color: black;
+}
+#J2{
+    color: darkred;
+    background-color: black;
+}
+#Empezar{
+    background-color: green;
+    color: white;
+    font-size: 35px;
+    margin-top: 40px;
+}
